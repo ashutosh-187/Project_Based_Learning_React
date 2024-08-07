@@ -28,7 +28,7 @@ To run any of the projects locally, follow these steps:
     ```
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 ## Acknowledgments
 - [React](https://reactjs.org/)
