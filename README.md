@@ -1,7 +1,5 @@
 # Project_Based_Learning_React
 
-# Project Based Learning in React
-
 Welcome to the **Project Based Learning in React** repository! This repository contains various projects that I have built during my learning process of React. Each project aims to help understand and apply different React concepts and techniques. The projects also incorporate TailwindCSS for styling.
 
 These projects demonstrates how to handle API requests, manage state, contexts, display data dynamically, and use of `react-router-dom` for navigation in a React application.
